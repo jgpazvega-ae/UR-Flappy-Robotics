@@ -1,19 +1,18 @@
 # 🎮 Flappy Robotics — Teradyne Edition
 
-Juego inspirado en Flappy Bird con la flota completa de **Universal Robots**, **MiR** y **Mobile Cobots** (Enabled Robotics). Esquiva a la competencia (JAKA, Dobot, FANUC, KUKA, OMRON y más) y activa el **Modo Teradyne** ⭐.
+Juego inspirado en Flappy Bird con la flota completa de **Universal Robots**, **MiR** y **Mobile Cobots** (Enabled Robotics). Esquiva a la competencia (JAKKA, Dovot, FANUK, CUKA, OM-RON y más) y activa el **Modo Teradyne** ⭐.
 
 > _Created by Giovanny Paz_
 
 ## 🎯 Jugar
 
-👉 **[Click aquí para jugar](https://TU-USUARIO.github.io/flappy-robotics/)**
+👉 **[Click aquí para jugar](https://jg.pazvega-ae.github.io/UR-Flappy-Robotics/)**
 
-(Reemplaza `TU-USUARIO` con tu usuario de GitHub cuando publiques)
 
 ## 🚀 Características
 
 - 15 modelos reales de la flota UR/MiR/MC
-- 16 villanos competidores con efectos chuscos (chispas, llamas, humo, aceite)
+- 16 villanos competidores fallando como de costunbre (chispas, llamas, humo, aceite)
 - Power-ups: ⭐ Estrella (invencibilidad 5s) y ❤ Corazón (vida extra)
 - Modo Teradyne al llegar a 120 puntos
 - Funciona offline, instalable como PWA en celular
