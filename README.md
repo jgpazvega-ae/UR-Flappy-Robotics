@@ -6,7 +6,7 @@ Juego inspirado en Flappy Bird con la flota completa de **Universal Robots**, **
 
 ## 🎯 Jugar
 
-👉 **[Click aquí para jugar]([https://jg.pazvega-ae.github.io/UR-Flappy-Robotics](https://jgpazvega-ae.github.io/UR-Flappy-Robotics/))**
+👉 **[Click aquí para jugar]([httpsi://jg.pazvega-ae.github.io/UR-Flappy-Robotics](https://jgpazvega-ae.github.io/UR-Flappy-Robotics/)**
 
 
 ## 🚀 Características
