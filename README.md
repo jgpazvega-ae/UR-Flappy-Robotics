@@ -1,4 +1,4 @@
-# 🎮 Flappy Robotics — Teradyne Edition
+# 🎮 UR Flappy Robotics — Teradyne Edition
 
 Juego inspirado en Flappy Bird con la flota completa de **Universal Robots**, **MiR** y **Mobile Cobots** (Enabled Robotics). Esquiva a la competencia (JAKKA, Dovot, FANUK, CUKA, OM-RON y más) y activa el **Modo Teradyne** ⭐.
 
